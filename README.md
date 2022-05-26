@@ -13,7 +13,11 @@
 2. 오늘 배운 건 꼭 복습하기
 3. 내가 쓴 코드를 내가 설명할 수 있도록 분석하기
 
-![isekaijoucho's GitHub stats](https://github-readme-stats.vercel.app/api?username=isekaijoucho&show_icons=true&theme=radical)
+---
+
+![isekaijoucho's GitHub stats](https://github-readme-stats.vercel.app/api?username=isekaijoucho&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaijoucho&langs_count=10&layout=compact&theme=white)](https://github.com/isekaijoucho/isekaijoucho)
+
+---
 
 💻 [**blog**](https://blog.naver.com/35th_ikaruga)
